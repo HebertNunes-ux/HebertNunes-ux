@@ -1,0 +1,47 @@
+# Sistema de Desconto Progressivo 🛒
+
+Projeto desenvolvido para a atividade da **Agenda 06 - Desenvolvimento de Sistemas I** (Etec/CPS).
+
+## 📌 Descrição do Projeto
+Este programa em Python implementa um sistema de desconto progressivo para uma loja online. O sistema calcula a porcentagem de desconto aplicada a uma compra com base no valor total digitado pelo usuário e exibe o resumo financeiro final.
+
+### Regras de Desconto:
+- **Compras menores que R$ 200,00:** 5% de desconto.
+- **Compras entre R$ 200,00 e R$ 299,99:** 10% de desconto.
+- **Compras a partir de R$ 300,00:** 15% de desconto.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **Linguagem:** Python 3
+- **Estruturas aplicadas:** Entrada/Saída de dados, conversão de tipos (`float`), operadores aritméticos e estruturas condicionais (`if` / `elif` / `else`).
+
+---
+
+## 🚀 Como Executar o Projeto
+
+1. Certifique-se de ter o Python instalado na sua máquina.
+
+2. Clone este repositório:
+git clone https://github.com/HebertNunes-ux/HebertNunes-ux.git
+
+
+3. Acesse a pasta do projeto:
+cd HebertNunes-ux
+
+
+4. Execute o arquivo Python:
+python HebertNunes_Ag6_DS_I.py
+
+
+---
+
+## 📸 Demonstração de Funcionamento
+- **Teste 1:** Compra abaixo de R$ 200,00 (Desconto de 5%)
+- **Teste 2:** Compra entre R$ 200,00 e R$ 299,99 (Desconto de 10%)
+- **Teste 3:** Compra a partir de R$ 300,00 (Desconto de 15%)
+
+---
+
+## 🧑‍💻 Autor
+Desenvolvido por **Hebert Nunes** como parte do curso de Desenvolvimento de Sistemas.
