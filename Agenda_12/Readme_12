@@ -1,0 +1,23 @@
+# Atividade Prática - Agenda 12 (Desenvolvimento de Sistemas I)
+
+Página web desenvolvida para a atividade prática da Agenda 12 do curso técnico em Desenvolvimento de Sistemas da Etec (Centro Paula Souza).
+
+## 🚀 Sobre o Projeto
+O objetivo desta atividade é a criação de uma página web simples em HTML (`index.html`) que apresenta uma lista de sites favoritos de estudo e tecnologia, estruturada com títulos, imagens locais e links funcionais.
+
+## 🛠️ Tecnologias Utilizadas
+* **HTML5** (Estruturação da página web).
+* **Imagens locais** em formato PNG (`github.png`, `youtube.png`, `cps.png`, `stackoverflow.png`, `python.png`).
+
+## 📂 Estrutura de Ficheiros
+A pasta principal do projeto contém a seguinte organização:
+```text
+/
+├── index.html
+├── github.png
+├── youtube.png
+├── cps.png
+├── stackoverflow.png
+└── python.png
+👨‍💻 Autor: Hebert Nunes Barbosa
+Estudante do Técnico em Desenvolvimento de Sistemas  — Etec
