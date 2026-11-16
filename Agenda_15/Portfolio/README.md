@@ -1,7 +1,7 @@
 # Portfólio Profissional - Desenvolvimento de Sistemas
 
 ## Aluno
-[Hebert Nunes Barbosa]
+Hebert Nunes Barbosa
 
 ## Descrição do Portfólio
 Este projeto consiste na evolução e criação do meu portfólio pessoal profissional, desenvolvido para expor minhas habilidades, projetos acadêmicos e formas de contato na web.
